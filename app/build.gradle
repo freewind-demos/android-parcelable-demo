@@ -4,10 +4,10 @@ plugins {
 }
 
 android {
-    namespace 'demos'
+    namespace 'demos.android.parcelable.demo'
     compileSdk 34
     defaultConfig {
-        applicationId "demos"
+        applicationId "demos.android.parcelable.demo"
         minSdk 24
         targetSdk 34
     }

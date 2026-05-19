@@ -1,4 +1,4 @@
-package demos
+package demos.android.parcelable.demo
 
 import android.content.Intent
 import android.os.Bundle

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "demos.android.parcelable.demo.app-debug-31:/layout_activity_second.xml.flat",
+        "source": "demos.android.parcelable.demo.app-main-33:/layout/activity_second.xml"
+    },
+    {
+        "merged": "demos.android.parcelable.demo.app-debug-31:/layout_activity_main.xml.flat",
+        "source": "demos.android.parcelable.demo.app-main-33:/layout/activity_main.xml"
+    }
+]

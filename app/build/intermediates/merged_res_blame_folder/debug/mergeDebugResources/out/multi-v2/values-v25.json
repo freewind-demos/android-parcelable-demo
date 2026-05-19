@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "demos.android.parcelable.demo.app-mergeDebugResources-29:/values-v25/values-v25.xml",
+            "map": [
+                {
+                    "source": "/Users/peng.li/.gradle/caches/transforms-4/38aa1777ed9d5c36da4ec6fef5875e47/transformed/appcompat-1.6.1/res/values-v25/values-v25.xml",
+                    "from": {
+                        "startLines": "2,3,4,6",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,126,209,308",
+                        "endLines": "2,3,5,7",
+                        "endColumns": "70,82,12,12",
+                        "endOffsets": "121,204,303,414"
+                    }
+                }
+            ]
+        }
+    ]
+}
